@@ -17,31 +17,31 @@
   "webhooks": [
    {
     "event": "attachment_created",
-    "url": "/61eb7f05-02c2-4090-9be6-5f7ffa15a182"
+    "url": "/71f4b3f8-2428-497e-a915-4638b67ea50a"
    },
    {
     "event": "blog_created",
-    "url": "/61eb7f05-02c2-4090-9be6-5f7ffa15a182"
+    "url": "/71f4b3f8-2428-497e-a915-4638b67ea50a"
    },
    {
     "event": "blog_updated",
-    "url": "/61eb7f05-02c2-4090-9be6-5f7ffa15a182"
+    "url": "/71f4b3f8-2428-497e-a915-4638b67ea50a"
    },
    {
     "event": "comment_created",
-    "url": "/61eb7f05-02c2-4090-9be6-5f7ffa15a182"
+    "url": "/71f4b3f8-2428-497e-a915-4638b67ea50a"
    },
    {
     "event": "comment_updated",
-    "url": "/61eb7f05-02c2-4090-9be6-5f7ffa15a182"
+    "url": "/71f4b3f8-2428-497e-a915-4638b67ea50a"
    },
    {
     "event": "page_created",
-    "url": "/61eb7f05-02c2-4090-9be6-5f7ffa15a182"
+    "url": "/71f4b3f8-2428-497e-a915-4638b67ea50a"
    },
    {
     "event": "page_updated",
-    "url": "/61eb7f05-02c2-4090-9be6-5f7ffa15a182"
+    "url": "/71f4b3f8-2428-497e-a915-4638b67ea50a"
    }
   ]
  }
