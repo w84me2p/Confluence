@@ -4,7 +4,7 @@
  "key": "com.ringcentral.confluence-glip-addon-1",
  "baseUrl": "https://hooks.glip.com/webhook",
  "vendor": {
-  "name": "RingCentral, Inc.",
+  "name": "RingCentral Inc.",
   "url": "https://www.ringcentral.com/"
  },
  "scopes": [
